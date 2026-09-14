@@ -1,5 +1,5 @@
 # MPoxAfter2022
-This repository contains codes to simulate mpox spread between 2022 and 2025 in the Berlin MSM community using a temporal contact network. It can be used to recreate all results and figures of the manuscript [Asynchronous metapopulation spread, immune waning, and return to baseline behaviour prevented extinction of mpox clade IIb](add-link-here).
+This repository contains codes to simulate mpox spread between 2022 and 2025 in the Berlin MSM community using a temporal contact network. It can be used to recreate all results and figures of the manuscript [Global immuno-epidemiology and the persistence of mpox clade IIb in MSM](add-link-here).
 
 ## System requirements 
 
