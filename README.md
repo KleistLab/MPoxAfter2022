@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/v/release/kleistlab/mpoxafter2022)
 [![Zenodo](https://img.shields.io/badge/Zenodo-doi:10.5281/zenodo.22765868-green)](https://doi.org/10.5281/zenodo.22765868)
 # MPoxAfter2022
 This repository contains codes to simulate mpox spread between 2022 and 2025 in the Berlin MSM community using a temporal contact network. It can be used to recreate all results and figures of the manuscript [Global immuno-epidemiology and the persistence of mpox clade IIb in MSM](add-link-here).
