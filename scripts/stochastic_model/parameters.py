@@ -343,7 +343,8 @@ parameter_sets = {
 	"model_base": model1_parameters,
 	"model2022": model2022_parameters,
 	"model22alt": model2022_parameters,
-	'fitting': model1_parameters
+	'fitting': model1_parameters,
+	'demo': model1_parameters
 }
 
 
